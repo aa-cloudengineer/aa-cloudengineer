@@ -1,6 +1,6 @@
 <h1>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h1>
 
-<h2>👨‍💻 AWS Projects:</h2>
+<h2><a href="https://github.com/aa-cloudengineer/AWS-Projects"> 👨‍💻 AWS Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
