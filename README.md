@@ -11,7 +11,7 @@
 - <b>Hybrid Architecture</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>👨‍💻 Azure Projects:</h2>
+<h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 Azure Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -21,7 +21,19 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Hybrid Architecture</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-    
+
+ <h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 GCP Projects:</a></h2>
+
+- <b>Decoupling Architecture</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Serverless Architecture</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>traditional  Architecture </b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Hybrid Architecture</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+      
 <h2>Certifications: </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
