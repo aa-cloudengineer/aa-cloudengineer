@@ -11,7 +11,7 @@
 - <b>Hybrid Architecture</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 Azure Projects:</a></h2>
+<h2><a href="https://github.com/aa-cloudengineer/Azure-Projects"> 👨‍💻 Azure Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
