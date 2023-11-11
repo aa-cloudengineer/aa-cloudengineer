@@ -3,7 +3,7 @@
 <h2><a href="https://github.com/aa-cloudengineer/AWS-Projects"> 👨‍💻 AWS Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Traditional-web-hosting-on-AWS](https://github.com/aa-cloudengineer/Traditional-Web-Hosting-On-AWS)
 - <b>Serverless Architecture</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>traditional  Architecture </b>
