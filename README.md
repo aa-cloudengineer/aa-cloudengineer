@@ -5,7 +5,9 @@
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+  - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
 - <b>traditional  Architecture </b>
   - [3 tier web architecture aws](https://github.com/aa-cloudengineer/AWS-Projects/tree/main/Traditional%20Architecture)
 - <b>Hybrid Architecture</b>
