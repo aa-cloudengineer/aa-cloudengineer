@@ -8,7 +8,7 @@
   - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
   - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
-- <b>traditional  Architecture </b>
+- <b>Traditional  Architecture </b>
   - [3 tier web architecture aws](https://github.com/aa-cloudengineer/AWS-Projects/tree/main/Traditional%20Architecture)
 - <b>Hybrid Architecture</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
@@ -46,18 +46,18 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Drooschuck | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Drooschuck  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Drooschuck  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Drooschuck  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/Drooschuck 
+[youtube]: https://www.youtube.com/c/Drooschuck 
+[instagram]: https://www.instagram.com/Drooschuck /
+[linkedin]: https://linkedin.com/in/Drooschuck 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
