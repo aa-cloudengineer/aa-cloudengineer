@@ -1,9 +1,9 @@
 <h1>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h1>
 
-<h2><a href="https://github.com/aa-cloudengineer/AWS-Projects"> 👨‍💻 AWS Projects:</a></h2>
+<h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
-  - [S3-web-hosting-on-AWS](https://github.com/aa-cloudengineer/S3-Web-Hosting-On-AWS)
+  - [S3-web-hosting-on-AWS](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>traditional  Architecture </b>
