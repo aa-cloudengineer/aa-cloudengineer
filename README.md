@@ -3,7 +3,7 @@
 <h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
-  - [S3-web-hosting-on-AWS](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
+  - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>traditional  Architecture </b>
