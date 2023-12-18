@@ -8,11 +8,17 @@
   - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
   - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
-- <b>Traditional  Architecture </b>
+ https://github.com/aa-cloudengineer/AWS-Kubernetes/tree/main
+  - [Kubernetes](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+- <b>CI-CD </b>
   - [3 tier web architecture aws](https://github.com/aa-cloudengineer/AWS-Projects/tree/main/Traditional%20Architecture)
-- <b>Hybrid Architecture</b>
+- <b>VPC</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>ML</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>IaC</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+    
 <h2><a href="https://github.com/aa-cloudengineer/Azure-Projects"> 👨‍💻 Azure Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
