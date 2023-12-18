@@ -53,7 +53,7 @@
 
 [twitter]: https://twitter.com/Drooschuck 
 [youtube]: https://www.youtube.com/c/Drooschuck 
-[instagram]: https://www.instagram.com/Drooschuck /
+[instagram]: https://www.instagram.com/Drooschuck 
 [linkedin]: https://linkedin.com/in/Drooschuck 
 
 <!--
