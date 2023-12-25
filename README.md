@@ -11,7 +11,8 @@
  https://github.com/aa-cloudengineer/AWS-Kubernetes/tree/main
   - [Kubernetes](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 - <b>CI-CD </b>
-  - [3 tier web architecture aws](https://github.com/aa-cloudengineer/AWS-Projects/tree/main/Traditional%20Architecture)
+  - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
+  - https://github.com/aa-cloudengineer/CI-CD
 - <b>VPC</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>ML</b>
