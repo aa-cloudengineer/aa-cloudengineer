@@ -25,7 +25,9 @@
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer)
 - <b>Serverless Architecture</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/aa-cloudengineer)
+  - [Azure Functions](https://github.com/aa-cloudengineer)
+  - [ ](https://github.com/aa-cloudengineer)
+  - [ ](https://github.com/aa-cloudengineer)
 - <b>traditional  Architecture </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/aa-cloudengineer)
 - <b>Hybrid Architecture</b>
