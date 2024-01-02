@@ -9,7 +9,7 @@
   - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
   - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
  https://github.com/aa-cloudengineer/AWS-Kubernetes/tree/main
-  - [Kubernetes](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
  
@@ -26,8 +26,8 @@
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer)
 - <b>Serverless Architecture</b>
   - [Azure Functions](https://github.com/aa-cloudengineer)
-  - [ ](https://github.com/aa-cloudengineer)
-  - [ ](https://github.com/aa-cloudengineer)
+  - [Azure Container Service (ACS)](https://github.com/aa-cloudengineer)
+  - [Kubernetes - AKS](https://github.com/aa-cloudengineer)
 - <b>traditional  Architecture </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/aa-cloudengineer)
 - <b>Hybrid Architecture</b>
