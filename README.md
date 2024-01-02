@@ -18,7 +18,7 @@
 - <b>ML</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>IaC</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configuration Management Tools)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
 <h2><a href="https://github.com/aa-cloudengineer/Azure-Projects"> 👨‍💻 Azure Projects:</a></h2>
 
