@@ -42,7 +42,9 @@
 - <b>Decoupling Architecture</b>
   - [ monolithic APP to microservices](https://github.com/aa-cloudengineer)
 - <b>Serverless Architecture</b>
-  - [ ](https://github.com/aa-cloudengineer)
+   - [Cloud Function](https://github.com/aa-cloudengineer)
+  - [Cloud Run](https://github.com/aa-cloudengineer)
+  - [Kubernetes - GKE](https://github.com/aa-cloudengineer)
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
 - <b>VPC</b>
