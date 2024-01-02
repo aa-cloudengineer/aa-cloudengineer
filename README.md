@@ -12,9 +12,8 @@
   - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
- 
 - <b>VPC</b>
-  - [AWS VPC)](https://github.com/aa-cloudengineer)
+  - [AWS (VPC)](https://github.com/aa-cloudengineer)
 - <b>ML</b>
   - [ Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
@@ -28,22 +27,30 @@
   - [Azure Functions](https://github.com/aa-cloudengineer)
   - [Azure Container Service (ACS)](https://github.com/aa-cloudengineer)
   - [Kubernetes - AKS](https://github.com/aa-cloudengineer)
-- <b>traditional  Architecture </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/aa-cloudengineer)
-- <b>Hybrid Architecture</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/aa-cloudengineer)
+- <b>CI-CD </b>
+  - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
+- <b>VPC</b>
+  - [Virtual Network (VNet)](https://github.com/aa-cloudengineer)
+- <b>ML</b>
+  - [ Machine Learning)](https://github.com/aa-cloudengineer)
+- <b>IaC</b>
+  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
+
 
  <h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 GCP Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
-  - [Praciting DS & Algos in Python](https://github.com/aa-cloudengineer)
+  - [ monolithic APP to microservices](https://github.com/aa-cloudengineer)
 - <b>Serverless Architecture</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/aa-cloudengineer)
-- <b>traditional  Architecture </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/aa-cloudengineer)
-- <b>Hybrid Architecture</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/aa-cloudengineer)
-
+  - [ ](https://github.com/aa-cloudengineer)
+- <b>CI-CD </b>
+  - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
+- <b>VPC</b>
+  - [VPC networks](https://github.com/aa-cloudengineer)
+- <b>ML</b>
+  - [Machine Learning)](https://github.com/aa-cloudengineer)
+- <b>IaC</b>
+  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
       
 <h2>Certifications: </h2>
 
