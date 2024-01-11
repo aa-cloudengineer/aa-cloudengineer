@@ -67,7 +67,7 @@
 - <b>DataBases</b>
   - [Relational Databases](https://github.com/aa-cloudengineer)
   - [Non-relational Databases](https://github.com/aa-cloudengineer)
-  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
+  
     
 <h2>Certifications: </h2>
 
