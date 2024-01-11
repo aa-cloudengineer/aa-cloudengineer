@@ -2,7 +2,7 @@
 
 <details>
   
- <summary><h2>👨‍💻 AWS Projects:</a></h2> </summary>
+ <summary><h2> 👨‍💻 AWS Projects:</a></h2> </summary>
 
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
@@ -24,7 +24,7 @@
 
 <details>
   
- <summary> <h2><a href="https://github.com/aa-cloudengineer/Azure-Projects"> 👨‍💻 Azure Projects:</a></h2>  </summary>
+ <summary> <h2> 👨‍💻 Azure Projects:</a></h2>  </summary>
 
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer)
@@ -45,7 +45,7 @@
 
 <details>
   
- <summary <h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 GCP Projects:</a></h2>  </summary>
+ <summary> <h2> 👨‍💻 GCP Projects:</a></h2>  </summary>
 
 - <b>Decoupling Architecture</b>
   - [ monolithic APP to microservices](https://github.com/aa-cloudengineer)
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary> <h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 OS - Networking - Databases:</a></h2> </summary>
+  <summary> <h2> 👨‍💻 OS - Networking - Databases:</a></h2> </summary>
 
 - <b> <a href="https://github.com/aa-cloudengineer/Operating-System/tree/main"> Operating System's</b>
   - [Linux](https://github.com/aa-cloudengineer)
