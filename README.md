@@ -2,7 +2,7 @@
 
 <details>
   
- <summary><h2>`rgb(9, 105, 218)`👨‍💻 AWS Projects:</a></h2> </summary>
+ <summary><h2>👨‍💻 AWS Projects:</a></h2> </summary>
 
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
@@ -91,6 +91,12 @@
 [instagram]: https://www.instagram.com/Drooschuck 
 [linkedin]: https://linkedin.com/in/Drooschuck 
 
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
