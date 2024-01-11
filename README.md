@@ -53,7 +53,22 @@
   - [Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
   - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
-      
+
+ <h2><a href="https://github.com/aa-cloudengineer/GCP-Projects"> 👨‍💻 OS - Networking - Databases:</a></h2>
+
+- <b>Operating System's</b>
+  - [Linux](https://github.com/aa-cloudengineer)
+  - [Windows](https://github.com/aa-cloudengineer)
+  - [OSX](https://github.com/aa-cloudengineer)
+- <b>Networking </b>
+  - [Networking abstracts](https://github.com/aa-cloudengineer/CI-CD)
+  - [Virtualisation](https://github.com/aa-cloudengineer/CI-CD)
+  - [Trust and Security](https://github.com/aa-cloudengineer/CI-CD)
+- <b>DataBases</b>
+  - [Relational Databases](https://github.com/aa-cloudengineer)
+  - [Non-relational Databases](https://github.com/aa-cloudengineer)
+  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
+    
 <h2>Certifications: </h2>
 
 - [AWS](https://github.com/aa-cloudengineer)
