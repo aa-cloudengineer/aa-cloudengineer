@@ -96,6 +96,8 @@ Gone camping! :tent: Be back soon.
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 
+:telescope:
+
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
