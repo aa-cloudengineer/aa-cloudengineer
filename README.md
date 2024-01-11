@@ -3,7 +3,8 @@
 <details>
   
  <summary><h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2> </summary>
-- <b>Decoupling Architecture</b>
+
+ ### <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
   - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
