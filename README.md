@@ -4,13 +4,12 @@
   
  <summary><h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2> </summary>
 
- ### <b>Decoupling Architecture</b>
+- <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
   - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
   - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
- https://github.com/aa-cloudengineer/AWS-Kubernetes/tree/main
   - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
