@@ -1,7 +1,8 @@
 <h1>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h1>
 
-<h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2>
-
+<details open>
+  
+ <summary><h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2> </summary>
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Serverless Architecture</b>
@@ -18,7 +19,8 @@
   - [ Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
   - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
-    
+
+</details>   
 <h2><a href="https://github.com/aa-cloudengineer/Azure-Projects"> 👨‍💻 Azure Projects:</a></h2>
 
 - <b>Decoupling Architecture</b>
