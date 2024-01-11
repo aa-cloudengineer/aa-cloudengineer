@@ -88,7 +88,10 @@
 [youtube]: https://www.youtube.com/c/Drooschuck 
 [instagram]: https://www.instagram.com/Drooschuck 
 [linkedin]: https://linkedin.com/in/Drooschuck 
-- [Face Smiling](#face-smiling) 
+- [Face Smiling](#face-smiling)
+
+| | ico | shortcode | ico | shortcode | |
+
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
