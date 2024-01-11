@@ -1,6 +1,6 @@
 <h1>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h1>
 
-<details open>
+<details>
   
  <summary><h2><a href="https://github.com/aa-cloudengineer/aa-cloudengineer/?tab=readme-ov-file"> 👨‍💻 AWS Projects:</a></h2> </summary>
 - <b>Decoupling Architecture</b>
