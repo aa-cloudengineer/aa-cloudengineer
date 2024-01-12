@@ -80,6 +80,8 @@
   - [Non-relational Databases](https://github.com/aa-cloudengineer)
   
  </details>   
+ 
+<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
 
 <h2>Certifications: </h2>
 
