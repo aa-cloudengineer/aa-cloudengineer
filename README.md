@@ -39,7 +39,7 @@
 - <b>ML</b>
   - [ Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
-  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
+  - [Configuration Management Tools](https://github.com/aa-cloudengineer)
     
 </details>
 
@@ -60,7 +60,7 @@
 - <b>ML</b>
   - [Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
-  - [Configuration Management Tools)](https://github.com/aa-cloudengineer)
+  - [Configuration Management Tools](https://github.com/aa-cloudengineer)
 
 </details>
 
