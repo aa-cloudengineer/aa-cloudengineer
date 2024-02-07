@@ -16,7 +16,7 @@
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
 - <b>VPC</b>
-  - [AWS (VPC)](https://github.com/aa-cloudengineer)
+  - [AWS (VPC)](https://github.com/aa-cloudengineer/Private-Clouds/tree/main/AWS-VPC)
 - <b>ML</b>
   - [ Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
