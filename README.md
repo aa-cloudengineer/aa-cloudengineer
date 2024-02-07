@@ -36,8 +36,8 @@
   - [Kubernetes - AKS](https://github.com/aa-cloudengineer)
 - <b>CI-CD </b>
   - [CICD Tools](https://github.com/aa-cloudengineer/CI-CD)
-- <b>VPC</b>
-  - [Virtual Network (VNet)](https://github.com/aa-cloudengineer)
+- <b>VNet</b>
+  - [Virtual Network (VNet)](https://github.com/aa-cloudengineer/Private-Clouds/tree/main/Azure-Vnet)
 - <b>ML</b>
   - [ Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
