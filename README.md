@@ -1,6 +1,12 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Welcome+%F0%9F%91%8B%2C+To+The+world+of+DevOps+%26+Cloud+;With+Droos+Chucks+DC%2C+Let's+Automate!+" alt="Typing SVG" /></a></h1>
 
-<h1>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h1>
+<h2>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a>, <a href="https://github.com/aa-cloudengineer">Network Engineer</a></h2>
+# 🏄‍♂️ Forrest Knight
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+
 
 <details>
   
