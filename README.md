@@ -23,7 +23,7 @@ I'm an Network and Cloud Engineer crafting my skills to become a Devops Engineer
 - <b>VPC</b>
   - [AWS (VPC)](https://github.com/aa-cloudengineer/Private-Clouds/tree/main/AWS-VPC)
 - <b>ML</b>
-  - [ Machine Learning)](https://github.com/aa-cloudengineer)
+  - [ Machine Learning)](https://github.com/aa-cloudengineer/Machine-Learning)
 - <b>IaC</b>
   - [Configuration Management Tools](https://github.com/aa-cloudengineer/IaC)
 
