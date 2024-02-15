@@ -6,7 +6,7 @@
 
 I'm an Network and Cloud Engineer crafting my skills to become a Devops Engineer one step at a time. All of Devops projects are built from the ground up, from planning and designing all the way to solving real-life problems with scripting and automation. All projects content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my github and cloud platforms.
 
-<h3 align="left">Projects:</h3>
+<h2> align="left">Projects:</h2>
 <details>
   
  <summary><h2> 👨‍💻 AWS Projects:</a></h2> </summary>
