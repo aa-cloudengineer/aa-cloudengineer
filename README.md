@@ -107,9 +107,9 @@
 
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aa-cloudengineer
-&amp;show_icons=true" alt="GitHub Stats"></p>
- 
+
+![Droos Chucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-cloudengineer&show_icons=true&theme=gruvbox)
+
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
