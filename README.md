@@ -92,6 +92,9 @@
 - [GCP](https://github.com/aa-cloudengineer)
 - [Ansible](https://github.com/aa-cloudengineer)
 
+### 📊 Stats
+
+![Droos Chucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-cloudengineer&show_icons=true&theme=gruvbox)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -104,11 +107,6 @@
 [youtube]: https://www.youtube.com/c/Drooschuck 
 [instagram]: https://www.instagram.com/Drooschuck 
 [linkedin]: https://linkedin.com/in/Drooschuck 
-
-
-<h2>GitHub Stats</h2>
-
-![Droos Chucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-cloudengineer&show_icons=true&theme=gruvbox)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
