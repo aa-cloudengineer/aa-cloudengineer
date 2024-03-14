@@ -44,7 +44,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 - <b>VNet</b>
   - [Virtual Network (VNet)](https://github.com/aa-cloudengineer/Private-Clouds/tree/main/Azure-Vnet)
 - <b>ML</b>
-  - [ Machine Learning)](https://github.com/aa-cloudengineer)
+  - [ Machine Learning](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
   - [Configuration Management Tools](https://github.com/aa-cloudengineer)
     
