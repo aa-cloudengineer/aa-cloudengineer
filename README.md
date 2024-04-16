@@ -3,12 +3,9 @@
 <h3>Hi, I'm Droos! <br/><a href="https://github.com/aa-cloudengineer">Network & </a><a href="https://github.com/aa-cloudengineer">Cloud Engineer</a></h3>
 
 **`Network and Cloud Automation (Network/Cloud/Devops Engineer)`** 
-
 I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer one step at a time. All of Devops projects are built from the ground up, from planning and designing all the way to solving real-life problems with scripting and automation. All projects content is built the same way, from ideation and planning, all the way to finalizing the content with an engineering touches. I publish that content on my github and cloud platforms.
-
 <details>
  <summary> <h2> Projects:</h2>  </summary>
-
   <details>
  <summary><h2> 👨‍💻 AWS Projects:</a></h2> </summary>
 
@@ -27,11 +24,8 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [ Machine Learning](https://github.com/aa-cloudengineer/Machine-Learning)
 - <b>IaC</b>
   - [Configuration Management Tools](https://github.com/aa-cloudengineer/IaC)
-
 </details>   
-
 <details>
-  
  <summary> <h2> 👨‍💻 Azure Projects:</a></h2>  </summary>
 
 - <b>Decoupling Architecture</b>
@@ -50,9 +44,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Configuration Management Tools](https://github.com/aa-cloudengineer)
     
 </details>
-
 <details>
-  
  <summary> <h2> 👨‍💻 GCP Projects:</a></h2>  </summary>
 
 - <b>Decoupling Architecture</b>
@@ -88,10 +80,8 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Non-relational Databases](https://github.com/aa-cloudengineer)
   
  </details>   
-
 <a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
  </details>  
- 
  <details>
 <Summary><h2>Certifications: </h2> </summary>
 
