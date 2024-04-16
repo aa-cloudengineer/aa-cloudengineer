@@ -103,7 +103,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=You+Are+Visitor+Number)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=You+Are+Visitor+Number&color=brightgreen&style=for-the-badge&abbreviated=true)
 
 <h2> 🤳 Connect with me:</h2>
 
