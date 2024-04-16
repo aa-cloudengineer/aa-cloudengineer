@@ -115,7 +115,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 <!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
 > You're visitor<br>
-![](https://komarev.com/ghpvc/?username=aa.cloudengineer&color=green&label=⌗)
+![](https://komarev.com/ghpvc/?username=aa-cloudengineer&color=green&label=⌗)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
