@@ -4,6 +4,9 @@
 
 **`Network and Cloud Automation (Network/Cloud/Devops Engineer)`** 
 I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer one step at a time. All of Devops projects are built from the ground up, from planning and designing all the way to solving real-life problems with scripting and automation. All projects content is built the same way, from ideation and planning, all the way to finalizing the content with an engineering touches. I publish that content on my github and cloud platforms.
+
+![](https://komarev.com/ghpvc/?username=aa-cloudengineer)
+
 <details>
  <summary> <h2> Projects:</h2>  </summary>
   <details>
@@ -108,11 +111,11 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 [instagram]: https://www.instagram.com/Drooschuck 
 [linkedin]: https://linkedin.com/in/Drooschuck 
 
-<p align="right">
+
 <!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
 > You're visitor<br>
 ![](https://komarev.com/ghpvc/?username=aa-cloudengineer&color=green&label=⌗)
-</p>
+
  
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
