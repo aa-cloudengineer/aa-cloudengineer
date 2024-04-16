@@ -6,9 +6,10 @@
 
 I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer one step at a time. All of Devops projects are built from the ground up, from planning and designing all the way to solving real-life problems with scripting and automation. All projects content is built the same way, from ideation and planning, all the way to finalizing the content with an engineering touches. I publish that content on my github and cloud platforms.
 
- <summary><h2>Projects:</h2>  </summary>
 <details>
-  
+ <summary> <h2> Projects:</h2>  </summary>
+
+  <details>
  <summary><h2> 👨‍💻 AWS Projects:</a></h2> </summary>
 
 - <b>Decoupling Architecture</b>
@@ -87,7 +88,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Non-relational Databases](https://github.com/aa-cloudengineer)
   
  </details>   
- 
+ </details>
 <a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
 
 <h2>Certifications: </h2>
