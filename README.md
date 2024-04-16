@@ -88,16 +88,20 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Non-relational Databases](https://github.com/aa-cloudengineer)
   
  </details>   
- </details>
-<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
 
-<h2>Certifications: </h2>
+<a href="https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md"><img src="https://img.shields.io/badge/CloudDevOpsHub-Learning_Resources-orange" alt="Learning"></a>
+ </details>  
+ 
+ <details>
+<Summary><h2>Certifications: </h2> </summary>
 
 - [AWS](https://github.com/aa-cloudengineer)
 - [Azure](https://github.com/aa-cloudengineer)
 - [GCP](https://github.com/aa-cloudengineer)
 - [Ansible](https://github.com/aa-cloudengineer)
-
+- 
+ </details>
+ 
 ### 📊 Stats
 
 ![Droos Chucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-cloudengineer&show_icons=true&theme=gruvbox)
