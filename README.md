@@ -96,9 +96,10 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 ### 📊 Stats
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=You+Are+Visitor+Number&color=brightgreen&style=for-the-badge&abbreviated=true)
-<!--
+
 ![Droos Chucks's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-cloudengineer&show_icons=true&theme=gruvbox)
 
+<!--
 ![](https://komarev.com/ghpvc/?username=aa-cloudengineer)
 
 [![Image of https://github.com/aa-cloudengineer/my-profile-views-counter](https://github.com/aa-cloudengineer/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/aa-cloudengineer/my-profile-views-counter)
