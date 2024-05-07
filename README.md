@@ -7,7 +7,20 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 <details>
  <summary> <h2> Projects:</h2>  </summary>
-  <details>
+   <details>
+ <summary><h2> 👨‍💻 DevOps Projects:</a></h2> </summary>
+
+- <b>Github Actions</b>
+  - [Gitops](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+- <b>Jenckens/b>
+  - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+  - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+
+</details> 
+  
+ <details>
  <summary><h2> 👨‍💻 AWS Projects:</a></h2> </summary>
 
 - <b>Decoupling Architecture</b>
@@ -26,9 +39,9 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 - <b>IaC</b>
   - [Configuration Management Tools](https://github.com/aa-cloudengineer/IaC)
 </details>   
+
 <details>
  <summary> <h2> 👨‍💻 Azure Projects:</a></h2>  </summary>
-
 - <b>Decoupling Architecture</b>
   - [monolithic APP to microservices](https://github.com/aa-cloudengineer)
 - <b>Serverless Architecture</b>
@@ -45,6 +58,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Configuration Management Tools](https://github.com/aa-cloudengineer)
     
 </details>
+
 <details>
  <summary> <h2> 👨‍💻 GCP Projects:</a></h2>  </summary>
 
@@ -62,7 +76,6 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Machine Learning)](https://github.com/aa-cloudengineer)
 - <b>IaC</b>
   - [Configuration Management Tools](https://github.com/aa-cloudengineer)
-
 </details>
 
 <details>
