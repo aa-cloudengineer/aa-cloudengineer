@@ -7,6 +7,11 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 <details>
  <summary> <h2> Met Office </h2>  </summary>
+ - <b>Jenckins</b>
+  - [Weather App](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+  - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 </details>
 
 <details>
