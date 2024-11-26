@@ -16,10 +16,17 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 - <b>Devops Project</b>
   - [CICD GitHub Action](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [CICD Jenkins](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
-- <b>Scripting Project</b>
+ - <b>Scripting Project</b>
   - [Python](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Bash](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
- 
+
+ - <b>Github Actions</b>
+  - [Gitops](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+- <b>Jenckins</b>
+  - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+  - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 </details>
 
 <details>
