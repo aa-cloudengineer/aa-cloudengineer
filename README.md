@@ -9,7 +9,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
  <summary> <h2> Met Office </h2>  </summary>
  
 - <b> Weather Apps </b>
-  - [Datahub API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+  - [Datahub API](https://github.com/drooschuck/-Met-Office-API))
   - [OpenWeather API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
 - <b>AWS Cloud Project</b>
   - [Console](https://github.com/aa-cloudengineer/ECS-Deployment)
