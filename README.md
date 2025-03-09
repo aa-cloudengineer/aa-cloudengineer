@@ -8,15 +8,16 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 <details>
  <summary> <h2> Home Office </h2>  </summary>
  
-- <b> VPC - Terraform - Github-Action </b>
-  - [Datahub API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
-  - [OpenWeather API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
-- <b>AWS Cloud Project</b>
-  - [Console](https://github.com/aa-cloudengineer/ECS-Deployment)
-  - [Terraform](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+- <b> VPC & CI/CD </b>
+  - [Terraform - Github-Action](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+  - [Terraform - Jenkins](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+  - [Terraform - Gitlab](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+- <b>Monitoring</b>
+  - [Prometheus](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Datadog](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
 - <b>Devops Project</b>
-  - [CICD GitHub Action](https://github.com/aa-cloudengineer/ECS-Deployment)
-  - [CICD Jenkins](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
+  - [AWS CodePipeline](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [Azure DevOps](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
 - <b>Scripting Project</b>
   - [Python](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Bash](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
