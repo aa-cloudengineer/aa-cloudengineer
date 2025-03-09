@@ -8,7 +8,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 <details>
  <summary> <h2> Home Office </h2>  </summary>
  
-- <b> VPC & CI/CD </b>
+- <b> VPC Creation with terraform & CI/CD </b>
   - [Terraform - Github-Action](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
   - [Terraform - Jenkins](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
   - [Terraform - Gitlab](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
