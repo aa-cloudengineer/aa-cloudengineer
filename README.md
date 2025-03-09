@@ -6,9 +6,9 @@
 I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer one step at a time. All of Devops projects are built from the ground up, from planning and designing all the way to solving real-life problems with scripting and automation. All projects content is built the same way, from ideation and planning, all the way to finalizing the content with an engineering touches. I publish that content on my github and cloud platforms.
 
 <details>
- <summary> <h2> Met Office </h2>  </summary>
+ <summary> <h2> Home Office </h2>  </summary>
  
-- <b> Weather Apps </b>
+- <b> VPC - Terraform - Github-Action </b>
   - [Datahub API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
   - [OpenWeather API](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
 - <b>AWS Cloud Project</b>
