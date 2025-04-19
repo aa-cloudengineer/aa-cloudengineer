@@ -27,9 +27,9 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 <details>
  <summary> <h2> Projects:</h2>  </summary>
-</details>
 
- <details>
+
+
  <summary><h2> 👨‍💻 DevOps Projects:</a></h2> </summary>
 
 - <b>Github Actions</b>
