@@ -116,7 +116,7 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 - <b> Amazon AI </b>
   - [Amazon Transcribe](https://github.com/aa-cloudengineer)
-  - [Amazon Rekognition](https://github.com/aa-cloudengineer)
+  - [Amazon Rekognition](https://github.com/aa-cloudengineer/Python_AI_Script/blob/main/AWS_Boto3/AWSboto3LebelDetection-AmazonRekognition.py)
   - [Amazon Translate](https://github.com/aa-cloudengineer)
 - <b> Azure AI </b>
   - [Azure AI Speech](https://github.com/aa-cloudengineer/CI-CD)
