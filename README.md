@@ -33,10 +33,22 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
 
 - <b>Github Actions</b>
   - [Gitops](https://github.com/aa-cloudengineer/DevOps-Projects/tree/main/GitOps)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+  
 - <b>Jenckins</b>
   - [ECS Deployment](https://github.com/aa-cloudengineer/ECS-Deployment)
   - [Lambda-API Backends](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/tree/main)
-  - [AWS Fargate](https://github.com/aa-cloudengineer/AWS-Fargate)
+ 
+- <b>AWS Code Pipline</b>
+   - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+   - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+     
+- <b>Azure Devops</b>
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
+    
+- <b>GitLab </b>
+  - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
   - [Kubernetes - EKS](https://github.com/aa-cloudengineer/AWS-Kubernetes)
 
 </details> 
@@ -99,6 +111,23 @@ I'm a Network and Cloud Engineer crafting my skills to become a Devops Engineer 
   - [Configuration Management Tools](https://github.com/aa-cloudengineer)
 </details>
 
+<details>
+  <summary> <h2> 👨‍💻 Artificial intelligence (AI) </a></h2> </summary>
+
+- <b> Amazon AI </b>
+  - [Amazon Transcribe](https://github.com/aa-cloudengineer)
+  - [Amazon Rekognition](https://github.com/aa-cloudengineer)
+  - [Amazon Translate](https://github.com/aa-cloudengineer)
+- <b> Azure AI </b>
+  - [Azure AI Speech](https://github.com/aa-cloudengineer/CI-CD)
+  - [Azure AI Translator](https://github.com/aa-cloudengineer/CI-CD)
+  - [Azure AI Language](https://github.com/aa-cloudengineer/CI-CD)
+- <b> GCP AI </b>
+  - [Document AI](https://github.com/aa-cloudengineer)
+  - [Speech-to-Text](https://github.com/aa-cloudengineer)
+  - [Text-to-Speech](https://github.com/aa-cloudengineer)
+  
+ </details>   
 <details>
   <summary> <h2> 👨‍💻 OS - Networking - Databases:</a></h2> </summary>
 
